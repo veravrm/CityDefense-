@@ -40,3 +40,14 @@ C:\Users\Home\OneDrive\Рабочий стол\все что было в габ�
 C:\Users\Home\OneDrive\Рабочий стол\все что было в габочем столе\CityDefense\obj\Debug\CityDefense.csproj.Fody.CopyLocal.cache
 C:\Users\Home\OneDrive\Рабочий стол\все что было в габочем столе\CityDefense\obj\Debug\CityDefense.exe
 C:\Users\Home\OneDrive\Рабочий стол\все что было в габочем столе\CityDefense\obj\Debug\CityDefense.pdb
+C:\Users\Home\OneDrive\Рабочий стол\CityDefense 1.1\bin\Debug\CityDefense.exe.config
+C:\Users\Home\OneDrive\Рабочий стол\CityDefense 1.1\bin\Debug\CityDefense.exe
+C:\Users\Home\OneDrive\Рабочий стол\CityDefense 1.1\bin\Debug\CityDefense.pdb
+C:\Users\Home\OneDrive\Рабочий стол\CityDefense 1.1\obj\Debug\CityDefense.csproj.AssemblyReference.cache
+C:\Users\Home\OneDrive\Рабочий стол\CityDefense 1.1\obj\Debug\CityDefense.MainWindow.resources
+C:\Users\Home\OneDrive\Рабочий стол\CityDefense 1.1\obj\Debug\CityDefense.Properties.Resources.resources
+C:\Users\Home\OneDrive\Рабочий стол\CityDefense 1.1\obj\Debug\CityDefense.csproj.GenerateResource.cache
+C:\Users\Home\OneDrive\Рабочий стол\CityDefense 1.1\obj\Debug\CityDefense.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Рабочий стол\CityDefense 1.1\obj\Debug\CityDefense.csproj.Fody.CopyLocal.cache
+C:\Users\Home\OneDrive\Рабочий стол\CityDefense 1.1\obj\Debug\CityDefense.exe
+C:\Users\Home\OneDrive\Рабочий стол\CityDefense 1.1\obj\Debug\CityDefense.pdb
